@@ -1,7 +1,8 @@
 # Flutter 運動筆記相簿
 
-![demo1](demo/1.jpg)
+<img src="https://github.com/iampaul83/flutter-running-biji-album/blob/master/demo/1.jpg" width="270">
 
-![demo2](demo/2.jpg)
+<img src="https://github.com/iampaul83/flutter-running-biji-album/blob/master/demo/2.jpg" width="270">
 
-![demo3](demo/3.jpg)
+<img src="hhttps://github.com/iampaul83/flutter-running-biji-album/blob/master/demo/3.jpg" width="270">
+
